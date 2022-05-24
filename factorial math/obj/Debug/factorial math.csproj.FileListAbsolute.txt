@@ -1,0 +1,7 @@
+C:\Users\Eng Xamiir\source\repos\factorial math\factorial math\bin\Debug\factorial math.exe.config
+C:\Users\Eng Xamiir\source\repos\factorial math\factorial math\bin\Debug\factorial math.exe
+C:\Users\Eng Xamiir\source\repos\factorial math\factorial math\bin\Debug\factorial math.pdb
+C:\Users\Eng Xamiir\source\repos\factorial math\factorial math\obj\Debug\factorial math.csproj.AssemblyReference.cache
+C:\Users\Eng Xamiir\source\repos\factorial math\factorial math\obj\Debug\factorial math.csproj.CoreCompileInputs.cache
+C:\Users\Eng Xamiir\source\repos\factorial math\factorial math\obj\Debug\factorial math.exe
+C:\Users\Eng Xamiir\source\repos\factorial math\factorial math\obj\Debug\factorial math.pdb
